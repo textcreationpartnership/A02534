@@ -36,62 +36,78 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Epistles the first volume: Containing II. decads. By Ioseph HallEpistles. Vol. 1Hall, Joseph, 1574-1
-#####Body#####
 
-1. EP. 1.
+1. TO THE HIGH
+AND MIGHTIE PRINCE,
+HENRIE, PRINCE OF GREAT
+Britaine, Sonne and Heyre Apparant to
+our Soueraigne Lord, IAMES, King
+of Great Brit. &c. all glorie in
+either world.
+
+#####Body#####
+EP. 1.
+TO IACOB WADSWORTH,
+Lately reuolted, in Spayne.Ep. 1. Expoſtulating for his departure, and
+pe
+    _ EP. 1.
 TO IACOB WADSWORTH,
 Lately reuolted, in Spayne.
 
-1. To my Lord and Patron,
+    _ To my Lord and Patron,
 the Lord DENNY, Baron
 of Waltham.
 
-1. To my Lord HAY, H. and P.
+    _ To my Lord HAY, H. and P.
 
-1. To Mr NEVVTON,
+    _ To Mr NEVVTON,
 
-1. To Sr. THOMAS CHALLONER,
+    _ To Sr. THOMAS CHALLONER,
 
-1. To Sr DAVID MVRRAY,
+    _ To Sr DAVID MVRRAY,
 
-1. To Mr. WILLLIAM BEDELL,
+    _ To Mr. WILLLIAM BEDELL,
 at Venice.
 
-1. To my Lord, the Earle of ESSEX.
+    _ To my Lord, the Earle of ESSEX.
 
-1. To St. ROBERT DRVRY, and
+    _ To St. ROBERT DRVRY, and
 his Lady.
 
-1. Written to Mr. I. B. and Dedicated
+    _ Written to Mr. I. B. and Dedicated
 to my father, Mr. I. HALL.
 
-1. To Sr. ROBERT DARCY.
+1. The ſecond Decade
+of Epiſtles.
 
-1. To Sr. EDMVND BACON.
+    _ To Sr. ROBERT DARCY.
 
-1. TO Mr. IOHN WHITING.
+    _ To Sr. EDMVND BACON.
 
-1. To my Siſter, Mrs. B. BRINSLY.
+    _ TO Mr. IOHN WHITING.
 
-1. To Mr. HVGH CHOLMLEY.
+    _ To my Siſter, Mrs. B. BRINSLY.
 
-1. To Mr. SAMVEL SOTHEBY.
+    _ To Mr. HVGH CHOLMLEY.
 
-1. To STANISLAVS BVCHINSKI,
+    _ To Mr. SAMVEL SOTHEBY.
+
+    _ To STANISLAVS BVCHINSKI,
 late Secretarie to DEMETRIVS
 Emp. of Ruſſia.
 
-1. To my father in law, Mr. GEORGE
+    _ To my father in law, Mr. GEORGE
 WENYFFE.
 
-1. To Mr. W. R. Dedic. to Mr. THOMAS
+    _ To Mr. W. R. Dedic. to Mr. THOMAS
 BVRLZ.
 
-1. To Mr. I. A. Merchant.
+    _ To Mr. I. A. Merchant.
 
 #####Back#####
-Epistles the first volume: Containing II. decads. By Ioseph HallEpistles. Vol. 1Hall, Joseph, 1574-1
+
+1. Errata.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
